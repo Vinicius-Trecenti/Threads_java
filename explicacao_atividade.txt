@@ -1,0 +1,7 @@
+Atividade 3 - Threads simples
+
+- Crie um programa que encontre dois números primos gêmeos;
+
+- No programa do jogo de aposta, modifique para exibir o valor de cada jogadora a cada um segundo
+
+- Crie um programa que teste a modificação apontada no método isPrimo
